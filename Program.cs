@@ -7,7 +7,7 @@ namespace ParkingLot
     {
         static void Main(string[] args)
         {
-            HashSet<string> carNumbers = new HashSet<string>();// create structure HashSet
+            HashSet<string> carNumbers = new HashSet<string>();// create a Data Structure HashSet
 
             while (true)
             {
